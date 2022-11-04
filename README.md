@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohcineboudenjal@gmail.com**
 
-- 📄 Know about my experiences [My name is Mohcine Boudenjal, software and smart system engenieer student. Im very passionate mobile developer spicially with Flutter/Dart](My name is Mohcine Boudenjal, software and smart system engenieer student)
+- 📄 My name is Mohcine Boudenjal, Software and Smart systems Engenieering Student, Junior backend developer (Laravel/Django).  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
