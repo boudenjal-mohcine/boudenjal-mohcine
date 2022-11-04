@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/boudenjalmohci1" target="blank"><img src="https://img.shields.io/twitter/follow/boudenjalmohci1?logo=twitter&style=for-the-badge" alt="boudenjalmohci1" /></a> </p>
 
-- 🔭 I’m currently working on [Hayawani](hayawani.tech)
+- 🔭 I’m currently working on [Hayawani](hayawani-front-end)
 
 - 🌱 I’m currently learning **Django, Flutter and MongoDB**
 
