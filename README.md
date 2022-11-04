@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohcine Boudenjal</h1>
-<h3 align="center">A passionate full stack developer, flutter & Dart developer from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boudenjal-mohcine&label=Profile%20views&color=0e75b6&style=flat" alt="boudenjal-mohcine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boudenjal-mohcine" alt="boudenjal-mohcine" /></a> </p>
+<h3 align="center"Software Engineering Student | Backend developer Laravel / Django </h3>
 
 <p align="left"> <a href="https://twitter.com/boudenjalmohci1" target="blank"><img src="https://img.shields.io/twitter/follow/boudenjalmohci1?logo=twitter&style=for-the-badge" alt="boudenjalmohci1" /></a> </p>
 
@@ -11,11 +7,11 @@
 
 - 🌱 I’m currently learning **Django, Flutter and MongoDB**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **mohcineboudenjal@gmail.com**
 
-- 📄 Know about my experiences [My name is Mohcine Boudenjal, software and smart system engenieer student. Im very passionate mobile developer spicially with Flutter/Dart](My name is Mohcine Boudenjal, software and smart system engenieer student. Im very passionate mobile developer spicially with Flutter/Dart)
+- 📄 Know about my experiences [My name is Mohcine Boudenjal, software and smart system engenieer student. Im very passionate mobile developer spicially with Flutter/Dart](My name is Mohcine Boudenjal, software and smart system engenieer student)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
