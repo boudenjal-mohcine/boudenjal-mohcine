@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohcine Boudenjal</h1>
-<h3 align="center"Software Engineering Student | Backend developer Laravel / Django </h3>
+<h3 align="center"Software Engineering Student | Front end developer </h3>
 
 <p align="left"> <a href="https://twitter.com/boudenjalmohci1" target="blank"><img src="https://img.shields.io/twitter/follow/boudenjalmohci1?logo=twitter&style=for-the-badge" alt="boudenjalmohci1" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Flutter and MongoDB**
+- 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **mohcineboudenjal@gmail.com**
 
-- 📄 My name is Mohcine Boudenjal, Software and Smart systems Engenieering Student, Junior backend developer (Laravel/Django).  
+- 📄 My name is Mohcine Boudenjal, Software and Smart systems Engenieering Student, Junior frontend developer (ReactJS).  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
