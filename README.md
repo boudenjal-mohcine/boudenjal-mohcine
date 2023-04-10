@@ -9,13 +9,13 @@ I'm Mohcine, a 21 years old software engenieer and web devloper from Morocco.
 - ⚙️ Front-End : React, Flutter
 - 💻 Back-End : NodeJs, Django, Laravel
 - 💽 Database : MySQL, PostgreSQL, MongoDB
-- 💽 DevOps Tools : Terraform, Jenkins
+- 🔧 DevOps Tools : Terraform, Jenkins
 
 ## Projects
 
 - Web and mobile application for school management using <b>Laravel MySQL Bootstrap</b> Web side and <b>Flutter GetX FCM</b> Mobile side
 - Desktop App for university management using Qt C++ and MySQL : [Demo](https://www.youtube.com/watch?v=bhBHeGlVJ1c&t)
-- Setup web application for a private detective agency using ReactJs : [Demo](https://cameleon-security.com/)
+- Setup web application for a private detective agency using ReactJs : [Website](https://cameleon-security.com/)
 
 ## Contact
 - [@Boudenjalmohci1](https://twitter.com/Boudenjalmohci1) on Twitter
