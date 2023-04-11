@@ -5,9 +5,9 @@
 I'm Mohcine, a 21 years old software engenieer and web devloper from Morocco.
 
 ## Skills
-- 👨‍💻 Languages : JavaScript, Java, PHP, C++, Dart, Bash Scripting
+- 👨‍💻 Languages : JavaScript, Java, PHP, C++, Dart, Bash Scripting, Python
 - ⚙️ Front-End : React, Flutter
-- 💻 Back-End : NodeJs, Django, Laravel
+- 💻 Back-End : NodeJs, Django, Laravel/Symfony
 - 💽 Database : MySQL, PostgreSQL, MongoDB
 - 🔧 DevOps Tools : Terraform, Jenkins
 
